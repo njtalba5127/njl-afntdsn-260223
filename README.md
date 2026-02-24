@@ -23,7 +23,7 @@
 <!-- START: PROJECT TODOS //////////////////////////////////////// -->
 <details open><summary><b>ᜋ᜔ᜄ ᜄᜏᜁᜈ᜔</b></summary><h1>Project Todos</h1>
 
-- [ ] https://github.com/njtalba5127/njl-afntdsn-260223/issues/2
+- [ ] https://github.com/nejilabs/njl-afntdsn-260223/issues/2
 
 </details>
 <!-- END: PROJECT TODOS //////////////////////////////////////// -->
