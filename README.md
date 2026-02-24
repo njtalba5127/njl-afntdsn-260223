@@ -21,7 +21,7 @@
 
 
 <!-- START: PROJECT TODOS //////////////////////////////////////// -->
-<details open><summary><b>PROJECT TODOS</b></summary><h1>Project Todos</h1>
+<details open><summary><b>PROJECT TODOS</b></summary><h1>Project Todos | ᜋ᜔ᜄ ᜇᜉᜆ᜔ ᜄᜏᜒᜈ᜔ ᜐ ᜉ᜔ᜇᜓᜌᜒᜃ᜔ᜆᜓ</h1>
 
 - [ ] https://github.com/njtalba5127/njl-afntdsn-260223/issues/2
 
